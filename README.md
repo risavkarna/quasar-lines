@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CurEdit L (curedit-l)
 
 A List-based CurEdit
@@ -24,3 +25,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+=======
+# quasar-lines
+A simple todo with a twist, mainly for checking Vue+Quasar 1.0's multi-platform capabilities and comparison with the same result written using Angular+Ionic
+>>>>>>> a5c0fc5dfa3ba33fc33ad879185dfcd6f19f8575
